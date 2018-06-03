@@ -100,6 +100,64 @@ if = {
 		autonomous_state = autonomy_dominion
 		freedom_level = 0.2
 	}
+	set_autonomy = {
+		target = AES
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = KEN
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = UGA
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = TGY
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = NRH
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = RHO
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = NYA
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = BOT
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = BSO
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = NIG
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = SLE
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = GAM
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = ADE
+		autonomous_state = autonomy_integrated_puppet
+	}
+	set_autonomy = {
+		target = KUW
+		autonomous_state = autonomy_integrated_puppet
+	}
+
+
 	else = {
 		puppet = MAL
 		puppet = RAJ
@@ -266,6 +324,7 @@ add_to_faction = CAN
 add_to_faction = AST
 add_to_faction = NZL
 add_to_faction = SAF
+add_to_faction = COG
 
 give_military_access = RAJ
 add_to_faction = RAJ		# Must be after puppet

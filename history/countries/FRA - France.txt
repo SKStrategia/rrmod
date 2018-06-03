@@ -185,6 +185,27 @@ set_autonomy = {
 	autonomous_state = autonomy_puppet
 }
 
+set_autonomy = {
+	target = MOR
+	autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+	target = TUN
+	autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+	target = FWA
+	autonomous_state = autonomy_integrated_puppet
+}
+set_autonomy = {
+	target = FEA
+	autonomous_state = autonomy_puppet
+}
+set_autonomy = {
+	target = FOC
+	autonomous_state = autonomy_integrated_puppet
+}
+
 #Order matters here Daladier will start as leaders because added last
 create_country_leader = {
 	name = "Charles de Gaulle"
