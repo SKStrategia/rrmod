@@ -432,8 +432,8 @@ ANG = {
 }
 
 COG = {
-	color = rgb { 152 159 209 }
-	color_ui = rgb { 152 159 209 }
+	color = rgb { 193 171 8 }
+	color_ui = rgb { 193 171 8 }
 }
 MZB = {
 	color = rgb { 112 62 90 }
@@ -448,8 +448,8 @@ ZIM = {
 	color_ui = rgb { 7 7 239 }
 }
 BOT = {
-	color = rgb { 11 132 112 }
-	color_ui = rgb { 11 132 112 }
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
 }
 PAK = {
 	color = rgb { 21 38 66 }
@@ -531,7 +531,7 @@ D15 = {
 	color = rgb { 194 140 86 }
 	color_ui = rgb { 252 182 112 }
 }
-#Modded Countries Beyond This Point
+# Modded Countries Beyond This Point
 GSU = {
 	color = rgb { 200 8 21 }
 	color_ui = rgb { 200 8 21 }
@@ -548,7 +548,7 @@ ASU = {
 	color = rgb { 100 100 150 }
 	color_ui = rgb { 100 100 150 }
 }
-CST = {
+EOC = {
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 171 190 152 }
 }
@@ -579,4 +579,76 @@ GMC = {
 GGD = {
 	color = rgb { 160 190 170 }
 	color_ui = rgb { 222 247 198 }
+}
+MOR = {
+	color = rgb { 165 42 42 }
+	color_ui = rgb { 165 42 42 }
+}
+TUN = {
+	color = rgb { 165 42 42 }
+	color_ui = rgb { 165 42 42 }
+}
+FWA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+FEA = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+FOC = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 57 113 228 }
+}
+AES = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+UGA = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+TGY = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+NRH = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+RHO = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+NYA = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+BSO = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+NIG = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+GCA = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+SLE = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+GAM = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+ADE = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
+}
+KUW = {
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
 }
