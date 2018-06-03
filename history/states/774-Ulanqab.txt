@@ -2,9 +2,9 @@ state={
 	id=774
 	name="STATE_774"
 	history={
-		owner = CST
+		owner = EOC
 		add_core_of = SHX
-		add_core_of = CST
+		add_core_of = EOC
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -13,7 +13,7 @@ state={
 		}
 	}
 	provinces={
-		7048 7158 7631 10424 12403 
+		7048 7158 7631 10424 12403
 	}
 	manpower=752041
 	state_category = pastoral
