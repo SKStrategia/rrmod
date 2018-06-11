@@ -34,24 +34,24 @@ CZE = {	color = rgb { 54 167 156 }
 		color_ui = rgb { 70 217 203 }
 }
 POL = {
-	color = rgb { 197 92 106 }
-	color_ui = rgb { 255 120 138 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 AUS = {
 	color = rgb { 194 198 215 }
 	color_ui = rgb { 255 255 255 }
 }
 LIT = {
-	color = rgb { 219 219 119 }
-	color_ui = rgb { 255 255 155 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 EST = {
-	color = rgb { 50 135 175 }
-	color_ui = rgb { 99 204 254 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 LAT = {
-	color = rgb { 75 77 186 }
-	color_ui = rgb { 124 125 184 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 SPR = {
 	color = rgb { 242 205 94 }
@@ -369,23 +369,23 @@ ICE = {
 }
 
 UKR = {
-	color = rgb { 0  80  230 }
-	color_ui = rgb { 0  80  230 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 
 AZR = {
-	color = rgb { 69  151  49 }
-	color_ui = rgb { 69  151  49 }
+	color = rgb { 125  13  24 }
+	color_ui = rgb { 125  13  24 }
 }
 
 GEO = {
-	color = rgb { 255  150  150 }
-	color_ui = rgb { 255  204  204 }
+	color = rgb { 125  13  24 }
+	color_ui = rgb { 125  13  24 }
 }
 
 ARM = {
-	color = rgb { 176  102  180 }
-	color_ui = rgb { 176  102  180 }
+	color = rgb { 125  13  24 }
+	color_ui = rgb { 125  13  24 }
 }
 
 LAO = {
@@ -419,8 +419,8 @@ MNT = {
 }
 
 BLR = {
-	color = rgb { 180 220 190 }
-	color_ui = rgb { 180 220 190 }
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
 MAN = {
 	color = rgb { 255 75 20 }
@@ -440,8 +440,8 @@ MZB = {
 	color_ui = rgb { 112 62 90 }
 }
 KEN = {
-	color = rgb { 145 103 14 }
-	color_ui = rgb { 145 103 14 }
+	color = rgb { 201 56 93 }
+	color_ui = rgb { 201 56 93 }
 }
 ZIM = {
 	color = rgb { 7 7 239 }
@@ -651,4 +651,36 @@ ADE = {
 KUW = {
 	color = rgb { 201 56 93 }
 	color_ui = rgb { 201 56 93 }
+}
+MOL = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+KAZ = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+TUM = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+UZB = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+KYR = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+TAJ = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
+}
+VAR = {
+	color = rgb { 255 128 0 }
+	color_ui = rgb { 255 128 0 }
+}
+KFI = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 125 13 24 }
 }
