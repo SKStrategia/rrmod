@@ -4,7 +4,7 @@ state={
 	name="STATE_78"
 
 	history={
-		owner = SOV
+		owner = MOL
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
@@ -17,12 +17,12 @@ state={
 
 		}
 		add_core_of = ROM
-		add_core_of = SOV
+		add_core_of = MOL
 
 	}
 
 	provinces={
-		414 565 3407 3577 3701 3704 3707 3724 6600 6727 6743 9683 11686 11705 
+		414 565 3407 3577 3701 3704 3707 3724 6600 6727 6743 9683 11686 11705
 	}
 	manpower=2863400
 	buildings_max_level_factor=1.000
