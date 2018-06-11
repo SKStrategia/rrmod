@@ -33,6 +33,214 @@ if = {
 		puppet = MAN
 	}
 }
+# Ukraine Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = UKR
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = UKR
+	}
+}
+# Belarus Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = BLR
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = BLR
+	}
+}
+# Poland Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = POL
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = POL
+	}
+}
+# Moldavia Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = MOL
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = MOL
+	}
+}
+# Lithuania Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = LIT
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = LIT
+	}
+}
+# Latvia Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = LAT
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = LAT
+	}
+}
+# Estonia Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = EST
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = EST
+	}
+}
+# Armenia Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = ARM
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = ARM
+	}
+}
+# Georgia Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = GEO
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = GEO
+	}
+}
+# Azerbaijan Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = AZR
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = AZR
+	}
+}
+# Kazakhstan Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = KAZ
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = KAZ
+	}
+}
+# Turkmenistan Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = TUM
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = TUM
+	}
+}
+# Uzbekistan Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = UZB
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = UZB
+	}
+}
+# Tajikistan Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = TAJ
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = TAJ
+	}
+}
+# Kyrgyzstan Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = KYR
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = KYR
+	}
+}
+# Karelo-Finnish Puppet
+if = {
+	limit = {
+		has_dlc = "Together for Victory"
+	}
+	set_autonomy = {
+		target = KFI
+		autonomous_state = autonomy_integrated_puppet
+	}
+	else = {
+		puppet = KFI
+	}
+}
 
 # Starting tech
 set_technology = {
